@@ -1,0 +1,227 @@
+@media all and(max-width:1800px){
+    .header-hero {
+        height: 600px;
+    }
+    .header {
+        height: 100px;
+    }
+    .header .img img {
+        padding-top: 0px;
+        height: 60px;
+    }
+    .header .navigation ul li {
+        padding-right: 3%;
+    }
+    .header .navigation ul li a {
+        font-size: 28px;
+    }
+
+    .text {
+        height: 390px;
+        padding: 55px 10%;
+    }
+    .text h4 {
+        font-size: 52px;
+        font-weight: 300;
+    }
+    .text h2 {
+        font-size: 110px;
+        font-weight: 700;
+    }
+    .text p {
+        font-size: 27px;
+        font-weight: 300;
+        padding: 0px 27% 30px 27%;
+    }
+    .text a {
+        margin: 0px 39%;
+        padding: 20px 7%;
+        font-size: 17px;
+    }
+/*===================================================
+------------------service media section--------------
+=====================================================*/
+    
+
+    .service {
+        height: 550px;
+    }
+
+    .service2 h2 {
+        font-size: 70px;
+        padding: 25px 0px;
+    }
+    .img1 {
+        height: 373px;
+        padding: 18px 3%;
+        column-gap: 10%;
+    }
+    .img1 img {
+        height: 400px;
+    }
+    
+    .img1 h2 {
+        font-size: 37px;
+        padding: 10px 0px;
+    }
+    .img1 p {
+        font-size: 20px;
+    }
+
+
+/*===================================================
+------------------question media section-------------
+=====================================================*/
+
+
+    .qutation {
+        padding: 70px 10%;
+    }
+    .qutation img {
+        height: 120px;
+        width: 13%;
+    }
+    .qutation q {
+        font-size: 35px;
+        padding: 20px 2%;
+    }
+    .qutation img {
+        height: 120px;
+        width: 13%;
+    }
+    .qutation h5 {
+        font-size: 25px;
+    }
+
+}
+
+@media all and(max-width:1400px){
+    .qutation img {
+        height: 90px;
+        width: 12%;
+    }
+    .qutation q {
+        font-size: 29px;
+    }
+}
+@media all and(max-width:1223px){
+    .text p {
+        font-size: 14px;
+    }
+    .qutation q {
+        font-size: 18px;
+    }
+    a {
+        font-size: 14px;
+    }
+}
+
+@media all and(max-width:1100px){
+    .header {
+        height: 50px;
+        padding: 15px 0px;
+    }
+    .text {
+        height: 270px;
+        padding: 50px 0%;
+    }
+    .header-hero {
+        height: 450px;
+    }
+    .text h2 {
+        font-size: 70px;
+    }
+    .text p {
+        font-size: 16px;
+        padding: 0px 30% 30px 30%;
+    }
+    .qutation q {
+        font-size: 20px;
+        padding: 15px 4%;
+    }
+    .qutation img {
+        width: 15%;
+    }
+    .qutation {
+        height: 220px;
+    }
+    .texthere h2 {
+        font-size: 25px;
+    }
+    .texthere p {
+        font-size: 15px;
+        padding-bottom: 30px;
+    }
+    .texthere {
+        height: 320px;
+    }
+    .img2 img {
+        height: 320px;
+    }
+    .about {
+        height: 320px;
+        column-gap: 10%;
+    }
+    .questions p {
+        font-size: 20px;
+        padding: 15px 15%;
+    }
+    .questions {
+        height: 200px;
+    }
+    .lisst ul li {
+        padding: 0px 8px;
+    }
+    .pp p {
+        font-size: 20px;
+        font-weight: 100;
+    }
+}
+
+@media all and(max-width:992px){
+    .text {
+        height: 200px;
+        padding: 46px 4%;
+    }
+    
+    .header-hero {
+        height: 393px;
+    }
+    .text h4 {
+        font-size: 30px;
+    }
+    .text h2 {
+        font-size: 60px;
+    } 
+    .text p {
+        text-align: center;
+        font-size: 15px;
+        padding: 0px 25% 30px 25%;
+    }
+    .text a {
+        margin: 0px 40%;
+        font-size: 8px;
+    }
+    .service {
+        height: 455px;;
+        padding: 30px 10%;
+    }
+    .img1 {
+        height: 400px;
+        padding: 0px 10%;
+        column-gap: 3%;
+    }
+    .img1 img {
+        height: 200px;
+    }
+    .img1 p {
+        font-size: 10px;
+    }
+    .footer {
+        padding: 10px 0px;
+    }
+    .lisst ul li {
+        padding: 0px 6px;
+    }
+    
+}
